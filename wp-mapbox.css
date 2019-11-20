@@ -1,0 +1,34 @@
+.mapboxgl-popup-content {
+  padding: 0;
+}
+
+.mapboxgl-popup-content h1.heading {
+  font-size: 16px;
+  padding: 10px 30px;
+  background-color: #020200;
+  color: white;
+  margin: 0!important;
+}
+
+.mapboxgl-popup-content .link {
+  margin: .5px 0;
+  padding: 15px 30px;
+  font-size: 12px;
+  text-align: center;
+}
+
+.mapboxgl-popup-close-button {
+  font-size: 16px;
+  margin: 5px;
+  box-shadow: none!important;
+  border-radius: 50%;
+  padding: 0;
+  width: 15px;
+  height: 15px;
+  line-height: 15px;
+}
+
+.mapboxgl-popup-close-button:hover {
+  background-color: white;
+  color: black!important;
+}
